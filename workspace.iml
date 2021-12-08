@@ -4,5 +4,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Real_Estate_DS" />
+    <orderEntry type="module" module-name="SQL_Management" />
   </component>
 </module>
