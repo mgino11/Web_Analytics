@@ -1,63 +1,63 @@
 ,news_headlines,neg,neu,pos,compound
-3,quotes displayed in real-time or delayed by at least,0.192,0.808,0.0,-0.2263
-4,minutes market data provided by factset,0.0,1.0,0.0,0.0
-5,powered and implemented by factset digital solutions,0.0,0.779,0.221,0.1779
-6,legal statement,0.0,0.4,0.6,0.128
-7,mutual fund and etf data provided by refinitiv lipper,0.0,1.0,0.0,0.0
-8,facebook twitter instagram rss email opinion fox news digital opinion,0.0,1.0,0.0,0.0
-9,hours ago the nsba addressed joe biden in a letter expressing american public schools are under an immediate threat due to mask mandates crt gender ideology and more ap opinion,0.108,0.892,0.0,-0.5267
-10,hours ago the medicare for all act of,0.0,1.0,0.0,0.0
-11,which i have just introduced with,0.0,1.0,0.0,0.0
-12,co-sponsors would provide comprehensive health care coverage to every man woman and child in our country reuters/scott audette/file photo opinion,0.0,0.776,0.224,0.6369
+3,quotes displayed in real-time or delayed by at least,0.192,0.808,0,-0.2263
+4,minutes market data provided by factset,0,1,0,0
+5,powered and implemented by factset digital solutions,0,0.779,0.221,0.1779
+6,legal statement,0,0.4,0.6,0.128
+7,mutual fund and etf data provided by refinitiv lipper,0,1,0,0
+8,facebook twitter instagram rss email opinion fox news digital opinion,0,1,0,0
+9,hours ago the nsba addressed joe biden in a letter expressing american public schools are under an immediate threat due to mask mandates crt gender ideology and more ap opinion,0.108,0.892,0,-0.5267
+10,hours ago the medicare for all act of,0,1,0,0
+11,which i have just introduced with,0,1,0,0
+12,co-sponsors would provide comprehensive health care coverage to every man woman and child in our country reuters/scott audette/file photo opinion,0,0.776,0.224,0.6369
 13,hours ago big business is no friend to conservatives—that’s been clear for years and it’s increasingly no friend to america,0.155,0.528,0.317,0.6808
-14,hours ago now more than ever police should know that american politicians have their backs just as they have ours,0.059,0.941,0.0,-0.0516
-15,hours ago the medicare for all act of,0.0,1.0,0.0,0.0
-16,which i have just introduced with,0.0,1.0,0.0,0.0
-17,co-sponsors would provide comprehensive health care coverage to every man woman and child in our country,0.0,0.729,0.271,0.6369
+14,hours ago now more than ever police should know that american politicians have their backs just as they have ours,0.059,0.941,0,-0.0516
+15,hours ago the medicare for all act of,0,1,0,0
+16,which i have just introduced with,0,1,0,0
+17,co-sponsors would provide comprehensive health care coverage to every man woman and child in our country,0,0.729,0.271,0.6369
 18,hours ago big business is no friend to conservatives—that’s been clear for years and it’s increasingly no friend to america,0.155,0.528,0.317,0.6808
-19,hours ago families are forced to compete with each other to find a necessity that was becoming alarmingly difficult to find,0.349,0.651,0.0,-0.8442
-20,hours ago the nsba addressed joe biden in a letter expressing american public schools are under an immediate threat due to mask mandates crt gender ideology and more,0.116,0.884,0.0,-0.5267
-21,"hours ago greg gutfeld discusses on ""gutfeld!"" the dangers of excessive social media use",0.212,0.788,0.0,-0.5411
+19,hours ago families are forced to compete with each other to find a necessity that was becoming alarmingly difficult to find,0.349,0.651,0,-0.8442
+20,hours ago the nsba addressed joe biden in a letter expressing american public schools are under an immediate threat due to mask mandates crt gender ideology and more,0.116,0.884,0,-0.5267
+21,"hours ago greg gutfeld discusses on ""gutfeld!"" the dangers of excessive social media use",0.212,0.788,0,-0.5411
 22,hours ago tucker carlson shredded lawmakers for prioritizing helping ukraine in light of problems in the united states on tucker carlson tonight,0.101,0.712,0.187,0.3182
-23,day ago what would you do if you couldn’t feed your baby this is a question parents across america are facing as the country continues to grapple with a baby formula shortage,0.065,0.935,0.0,-0.25
+23,day ago what would you do if you couldn’t feed your baby this is a question parents across america are facing as the country continues to grapple with a baby formula shortage,0.065,0.935,0,-0.25
 24,day ago today communist china dominates the global active pharmaceutical ingredient (api) and precursor chemicals antibiotics and vitamin markets leaving patients and policymakers—or even trained pharmacists like me—with very little visibility into the messy supply chain of essential medicines,0.055,0.754,0.191,0.6249
-25,day ago the strangest thing about the debate over parents’ roles and rights in their children’s education is that there is a debate at all,0.0,1.0,0.0,0.0
-26,day ago at the end of april the us food and drug administration announced its proposal to ban menthol tobacco products the target of the proposal is menthol cigarettes which are the most common choice of black smokers,0.089,0.911,0.0,-0.5574
-27,"day ago greg gutfeld discusses on ""gutfeld!"" the new white house press secretary",0.0,1.0,0.0,0.0
-28,day ago fox news host tucker carlson reveals why karine jean-pierre is perfect for her new job as white house press secretary on tucker carlson tonight,0.0,0.871,0.129,0.5719
+25,day ago the strangest thing about the debate over parents’ roles and rights in their children’s education is that there is a debate at all,0,1,0,0
+26,day ago at the end of april the us food and drug administration announced its proposal to ban menthol tobacco products the target of the proposal is menthol cigarettes which are the most common choice of black smokers,0.089,0.911,0,-0.5574
+27,"day ago greg gutfeld discusses on ""gutfeld!"" the new white house press secretary",0,1,0,0
+28,day ago fox news host tucker carlson reveals why karine jean-pierre is perfect for her new job as white house press secretary on tucker carlson tonight,0,0.871,0.129,0.5719
 29,day ago irony doesnt begin to explain why pro-choice activists chose mothers day weekend to picket the homes of justice brett kavanaugh and chief justice john roberts who appear ready to overturn roe v wade,0.03,0.741,0.23,0.8442
 30,days ago competent leadership is difficult to come by these days but there is an appalling lack of it in the biden administration,0.278,0.664,0.058,-0.743
-31,days ago there’s a lot of heat and noise in our politics today  but here’s what it reveals when you pull back the curtain six months away from the midterm elections,0.0,1.0,0.0,0.0
-32,days ago elon musk time magazine’s,0.0,1.0,0.0,0.0
+31,days ago there’s a lot of heat and noise in our politics today  but here’s what it reveals when you pull back the curtain six months away from the midterm elections,0,1,0,0
+32,days ago elon musk time magazine’s,0,1,0,0
 33,person of the year is under attack why because he is bucking the liberal establishment and wants to make sure that you can too,0.113,0.803,0.084,-0.2023
 34,days ago supreme court justice samuel alito’s leaked draft opinion in dobbs v jackson women’s health organization is a masterpiece of jurisprudence and a long-overdue victory for the preborn,0.065,0.621,0.314,0.8689
-35,"days ago as we wait for the supreme court’s final ruling it is worth noting that justice alito wrote in the draft opinion that some supporters of abortion ""have been motivated by a desire to suppress the size of the african american population""",0.0,0.673,0.327,0.9477
+35,"days ago as we wait for the supreme court’s final ruling it is worth noting that justice alito wrote in the draft opinion that some supporters of abortion ""have been motivated by a desire to suppress the size of the african american population""",0,0.673,0.327,0.9477
 36,"days ago greg gutfeld discusses the latest news on the protests over the supreme court potentially overturning roe v wade on ""gutfeld!""",0.077,0.766,0.157,0.4574
 37,days ago fox news host tucker carlson calls out protesters targeting churches in response to the supreme court leak suggesting an overturn to roe v wade on tucker carlson tonight,0.127,0.767,0.106,0.0772
 38,days ago european officials are desperate to salvage the iran deal no matter the costs groveling at the feet of iran in an attempt to break through the current negotiation deadlock,0.197,0.771,0.031,-0.7003
-39,days ago putin’s russia is going down the drain even the may,0.0,1.0,0.0,0.0
-40,parade was a fizzle on the victory day celebrations russia lost hands down to zelenskyy and ukraine,0.133,0.867,0.0,-0.3182
-41,days ago right now women across the country are weighing their options to determine who they’ll vote for on election day,0.0,1.0,0.0,0.0
-42,days ago the american people are increasingly concerned about public safety and it’s easy to see why a spike in murder rates led to the deadliest year on record for many major cities last year for the first time on record more than,0.095,0.789,0.115,0.0
+39,days ago putin’s russia is going down the drain even the may,0,1,0,0
+40,parade was a fizzle on the victory day celebrations russia lost hands down to zelenskyy and ukraine,0.133,0.867,0,-0.3182
+41,days ago right now women across the country are weighing their options to determine who they’ll vote for on election day,0,1,0,0
+42,days ago the american people are increasingly concerned about public safety and it’s easy to see why a spike in murder rates led to the deadliest year on record for many major cities last year for the first time on record more than,0.095,0.789,0.115,0
 43,americans died from drug overdoses during a -month period and it seems like headlines are dominated by subway attacks gang shootouts and other terrifying incidents show more,0.294,0.634,0.072,-0.8271
 44,days ago last monday a leaked draft opinion from justice samuel alito revealed that the supreme court is planning to overrule roe v wade and planned parenthood v casey – effectively overturning the federal right to an abortion,0.055,0.711,0.235,0.8225
 45,days ago pope francis recently shocked many by positing parity between vladimir putin and russia on one hand and ukraine and nato on the other the holy father insisted both are to blame for the raging war,0.254,0.678,0.068,-0.8316
-46,days ago you’re doing a great job mamas!  that’s what i want you to know and i think god does too,0.0,0.658,0.342,0.7777
+46,days ago you’re doing a great job mamas!  that’s what i want you to know and i think god does too,0,0.658,0.342,0.7777
 47,days ago many years ago our family of nine left australia for the united states with no guaranteed income,0.1,0.773,0.127,0.1531
-48,days ago as a millennial “mama bear” to four school-aged children let me tell you what mama bears want more than anything else this mother’s day show more,0.0,0.952,0.048,0.0772
-49,hours ago,0.0,1.0,0.0,0.0
-50,hours ago,0.0,1.0,0.0,0.0
-51,hours ago,0.0,1.0,0.0,0.0
-52,hours ago,0.0,1.0,0.0,0.0
-53,days ago,0.0,1.0,0.0,0.0
-54,days ago,0.0,1.0,0.0,0.0
-55,days ago,0.0,1.0,0.0,0.0
-56,days ago get the recap of top opinion commentary and original content throughout the week arrives daily subscribe subscribed subscribe youve successfully subscribed to this newsletter! :,0.0,0.752,0.248,0.7644
-57,mins ago :,0.0,1.0,0.0,0.0
-58,mins ago :,0.0,1.0,0.0,0.0
-59,hour ago :,0.0,1.0,0.0,0.0
+48,days ago as a millennial “mama bear” to four school-aged children let me tell you what mama bears want more than anything else this mother’s day show more,0,0.952,0.048,0.0772
+49,hours ago,0,1,0,0
+50,hours ago,0,1,0,0
+51,hours ago,0,1,0,0
+52,hours ago,0,1,0,0
+53,days ago,0,1,0,0
+54,days ago,0,1,0,0
+55,days ago,0,1,0,0
+56,days ago get the recap of top opinion commentary and original content throughout the week arrives daily subscribe subscribed subscribe youve successfully subscribed to this newsletter! :,0,0.752,0.248,0.7644
+57,mins ago :,0,1,0,0
+58,mins ago :,0,1,0,0
+59,hour ago :,0,1,0,0
 60,hours ago coronavirus us crime military education terror immigration economy personal freedoms fox news investigates world un conflicts terrorism disasters global economy environment religion scandals opinion politics executive senate house judiciary foreign policy polls elections entertainment celebrity news movies tv news music news style news entertainment video business personal finance economy markets watchlist lifestyle real estate tech lifestyle food + drink cars + trucks travel + outdoors house + home fitness + well-being style + beauty family faith science archaeology air & space planet earth wild nature natural science dinosaurs tech security innovation drones computers video games military tech health coronavirus healthy living medical research mental health cancer heart health childrens health tv shows personalities watch live full episodes show clips news clips about contact us careers fox around the world advertise with us media relations corporate information compliance supplier diversity other fox weather fox nation fox news shop fox news go fox news radio newsletters podcasts apps & products facebook twitter instagram youtube flipboard linkedin slack rss newsletters spotify iheartradio fox news new terms of use new privacy policy do not sell my personal information closed captioning policy help contact us accessibility statement this material may not be published broadcast rewritten or redistributed © fox news network llc all rights reserved quotes displayed in real-time or delayed by at least,0.109,0.773,0.118,-0.2023
-61,minutes market data provided by factset,0.0,1.0,0.0,0.0
-62,powered and implemented by factset digital solutions,0.0,0.779,0.221,0.1779
-63,legal statement,0.0,0.4,0.6,0.128
-64,mutual fund and etf data provided by refinitiv lipper ,0.0,1.0,0.0,0.0
+61,minutes market data provided by factset,0,1,0,0
+62,powered and implemented by factset digital solutions,0,0.779,0.221,0.1779
+63,legal statement,0,0.4,0.6,0.128
+64,mutual fund and etf data provided by refinitiv lipper ,0,1,0,0
